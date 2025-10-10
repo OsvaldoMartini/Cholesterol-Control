@@ -77,15 +77,67 @@ Em todos os exames, o valor ficou **próximo ou abaixo do limite (190 mg/dL)** �
 
 ## 🥙 **Plano Alimentar Mediterrâneo Semanal (Exemplo)**
 
-| Dia     | Café da Manhã                                  | Lanche da Manhã             | Almoço                                           | Lanche da Tarde           | Jantar                                          |
-| ------- | ---------------------------------------------- | --------------------------- | ------------------------------------------------ | ------------------------- | ----------------------------------------------- |
-| Segunda | Iogurte natural + frutas vermelhas + chia      | Castanhas (10–15 unidades)  | Salada de folhas + salmão grelhado + quinoa      | Maçã ou pera              | Frango grelhado + legumes assados + azeite      |
-| Terça   | Aveia com banana e sementes de linhaça         | Mix de nozes e amêndoas     | Salada de grão-de-bico + atum + azeite           | Iogurte natural           | Tilápia ao forno + brócolis + tomate            |
-| Quarta  | Smoothie de abacate, espinafre e leite vegetal | Cenoura e pepino em palitos | Salada mediterrânea com frango + grãos integrais | Frutas da estação         | Omelete com espinafre, tomate e azeite          |
-| Quinta  | Pão integral + queijo branco + tomate          | Frutas secas                | Salada de lentilha + salmão                      | Iogurte natural + linhaça | Berinjela e abobrinha assadas + peito de frango |
-| Sexta   | Aveia + morango + sementes de girassol         | Mix de castanhas            | Quinoa + grão-de-bico + vegetais + azeite        | Maçã                      | Bacalhau ao forno + brócolis + pimentão         |
-| Sábado  | Iogurte natural + granola integral + frutas    | Cenoura, pepino e tomate    | Salada de atum + grãos integrais                 | Nozes                     | Frango assado + salada de folhas + azeite       |
-| Domingo | Omelete com espinafre, tomate e azeite         | Fruta da estação            | Salada mediterrânea com lentilha e vegetais      | Castanhas                 | Peixe grelhado + legumes ao vapor + azeite      |
+Perfeito! Vou montar a **nova tabela horizontal**, adaptada para **alimentação econômica**, incluindo as frutas que você gosta (maçã, abacaxi, kiwi), proteínas acessíveis (peito de frango, tilápia, ovos cozidos), e suplementos (creatina 5g/dia e whey protein 30g/dose). Os ovos agora são **cozidos** para reduzir colesterol.
+
+---
+
+## 🥙 **Plano Alimentar Econômico Semanal (Horizontal)**
+
+| Dia     | Café da Manhã                       | Lanche da Manhã | Almoço                                                    | Lanche da Tarde | Jantar                                      | Suplemento Pós-Treino  |
+| ------- | ----------------------------------- | --------------- | --------------------------------------------------------- | --------------- | ------------------------------------------- | ---------------------- |
+| Segunda | 2 ovos cozidos + 30g aveia + 1 maçã | 1 kiwi          | 150g tilápia grelhada + 100g arroz + 100g salada          | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+| Terça   | Omelete de 2 ovos cozidos + 1 maçã  | 1 kiwi          | 150g tilápia assada + 150g batata + 100g salada           | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+| Quarta  | 2 ovos cozidos + 30g aveia + 1 kiwi | 1 maçã          | 150g tilápia grelhada + 100g arroz integral + 100g salada | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+| Quinta  | Omelete de 2 ovos cozidos + 1 maçã  | 1 kiwi          | 150g tilápia grelhada + 100g arroz + 100g salada          | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+| Sexta   | 2 ovos cozidos + 30g aveia + 1 maçã | 1 kiwi          | 150g tilápia grelhada + 150g batata + 100g salada         | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+| Sábado  | Omelete de 2 ovos cozidos + 1 kiwi  | 1 maçã          | 150g tilápia assada + 100g arroz integral + 100g salada   | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+| Domingo | 2 ovos cozidos + 30g aveia + 1 maçã | 1 kiwi          | 150g tilápia grelhada + 150g batata + 100g salada         | 150g abacaxi    | 150g peito de frango + 150g legumes cozidos | Whey 30g + Creatina 5g |
+
+---
+
+💡 **Observações importantes**:
+
+* **Ovos cozidos** → reduzem impacto no colesterol; casca branca ou marrom é indiferente.
+* **Creatina** → 5g/dia, preferencialmente após treino.
+* **Whey protein** → 30g por dose, ideal após treino ou conforme rotina.
+* **Frutas e legumes** → varie conforme disponibilidade da estação.
+* **Legumes cozidos** → abobrinha, cenoura, vagem ou o que estiver mais barato.
+* **Água** → 2–3L/dia.
+
+---
+
+Excelente 👌
+Agora vamos montar uma **versão ainda mais prática e flexível**, **sem frituras**, mas com **opções alternadas ("ou isso ou aquilo")** — assim você pode escolher conforme o que tiver em casa no dia.
+Tudo mantendo **proteína boa**, **baixo custo** e **variedade real**.
+
+---
+
+## 🥗 **Plano Alimentar Econômico & Flexível (Sem Fritura – 7 Dias)**
+
+| Dia         | Café da Manhã                                                                                      | Lanche da Manhã                | Almoço                                                                 | Lanche da Tarde                               | Jantar                                                                    | Suplemento             |
+| ----------- | -------------------------------------------------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------- | ---------------------- |
+| **Segunda** | ☕ Café preto + 2 ovos cozidos + 1 fatia (20g) queijo branco **ou** 1 copo iogurte natural + 1 maçã | 1 kiwi **ou** 1 fatia abacaxi  | 150g frango grelhado + 150g legumes cozidos + 100g arroz **ou** batata | 1 maçã **ou** 1 pote iogurte natural          | 2 ovos cozidos + 150g legumes cozidos **ou** 100g queijo branco + legumes | Whey 30g + Creatina 5g |
+| **Terça**   | ☕ Café preto + 2 ovos cozidos + 1 maçã **ou** 1 copo iogurte natural + 20g queijo branco           | 1 kiwi **ou** 1 banana pequena | 150g frango grelhado + 150g legumes + 100g batata **ou** arroz         | 1 fatia abacaxi **ou** 1 pote iogurte natural | 2 ovos cozidos + 100g queijo branco **ou** 2 ovos + legumes cozidos       | Whey 30g + Creatina 5g |
+| **Quarta**  | ☕ Café preto + 2 ovos cozidos + 1 fatia queijo branco **ou** 1 copo iogurte + 1 maçã               | 1 kiwi **ou** 1 fatia abacaxi  | 150g frango + 150g legumes + 100g arroz **ou** batata                  | 1 maçã **ou** 1 iogurte                       | 2 ovos + 150g legumes **ou** 100g queijo branco + legumes                 | Whey 30g + Creatina 5g |
+| **Quinta**  | ☕ Café preto + 2 ovos cozidos + 20g queijo branco **ou** 1 copo iogurte + 1 kiwi                   | 1 maçã **ou** 1 fatia abacaxi  | 150g frango + 150g legumes + 100g arroz **ou** batata                  | 1 kiwi **ou** 1 maçã                          | 2 ovos + 150g legumes **ou** 100g queijo branco                           | Whey 30g + Creatina 5g |
+| **Sexta**   | ☕ Café preto + 2 ovos cozidos + 1 fatia queijo branco **ou** 1 copo iogurte + 1 maçã               | 1 kiwi **ou** 1 banana         | 150g tilápia + 150g legumes + 100g arroz **ou** batata                 | 1 fatia abacaxi **ou** 1 pote iogurte         | 2 ovos + 150g legumes **ou** 100g queijo branco                           | Whey 30g + Creatina 5g |
+| **Sábado**  | ☕ Café preto + 2 ovos cozidos + 1 maçã **ou** 1 iogurte + 20g queijo branco                        | 1 kiwi **ou** 1 fatia abacaxi  | 150g frango + 150g legumes + 100g arroz **ou** batata                  | 1 maçã **ou** 1 iogurte natural               | 2 ovos + 150g legumes **ou** 100g queijo branco                           | Whey 30g + Creatina 5g |
+| **Domingo** | ☕ Café preto + 2 ovos cozidos + 1 fatia queijo branco **ou** 1 iogurte + 1 maçã                    | 1 kiwi **ou** 1 banana         | 150g frango + 150g legumes + 100g arroz **ou** batata                  | 1 fatia abacaxi **ou** 1 iogurte natural      | 2 ovos + 150g legumes **ou** 100g queijo branco                           | Whey 30g + Creatina 5g |
+
+---
+
+### 💡 **Dicas para manter o custo baixo**
+
+* 🥚 **Ovos**: compre bandejas grandes — são base proteica barata e completa.
+* 🧀 **Queijo branco**: pode variar entre minas, ricota ou cottage.
+* 🍗 **Frango**: compre em filés ou peito inteiro e congele porções.
+* 🥦 **Legumes baratos**: cenoura, chuchu, abobrinha, couve e repolho.
+* 🍍 **Frutas**: prefira as da estação (maçã e abacaxi têm boa duração).
+* 🧃 **Iogurte natural**: pode ser o simples, sem açúcar (1 copo ≈ 120ml).
+* 💪 **Suplementos**:
+
+  * **Whey**: 30g após treino.
+  * **Creatina**: 5g por dia (pode misturar no whey).
 
 ---
 
