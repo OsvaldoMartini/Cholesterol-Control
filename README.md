@@ -21,12 +21,12 @@ Perfeito — você trouxe ótimos dados e dá pra fazer uma **análise comparati
 ## 📊 **Análise Geral**
 
 ### 🔹 Colesterol Total
-Em todos os exames, o valor ficou **próximo ou abaixo do limite (190 mg/dL)** → bom controle geral.
+O resultado mais recente (221 mg/dL, em julho de 2026) está **acima do valor desejável** para adultos (inferior a 190 mg/dL) e aumentou em relação a 2025 (169 mg/dL).
 
 ### 🔹 LDL (colesterol ruim)
-- Melhorou bastante em 2025 (102 mg/dL).  
-- Em 2024 chegou a 138 mg/dL, o que é **acima do ideal** (risco intermediário).  
-✅ Agora está **dentro da faixa aceitável para baixo risco cardiovascular**.
+- Em 2025, foi 102 mg/dL; em julho de 2026, subiu para **150 mg/dL**.  
+- O resultado mais recente está acima da meta usada até para baixo risco cardiovascular (inferior a 130 mg/dL).  
+- A meta individual depende da avaliação médica do risco cardiovascular.
 
 ### 🔹 HDL (colesterol bom)
 - Sempre esteve **baixo ou no limite** (ideal >40 mg/dL).  
@@ -34,18 +34,20 @@ Em todos os exames, o valor ficou **próximo ou abaixo do limite (190 mg/dL)** �
 
 ### 🔹 Triglicérides
 - Oscilaram entre 105 e 207.  
-- Agora (164) está **um pouco acima do desejável**, mas **melhor do que antes**.
+- O resultado mais recente (188 mg/dL) está **acima do desejável**: inferior a 150 mg/dL com jejum ou inferior a 175 mg/dL sem jejum.  
+- Está acima de 2025 (164 mg/dL), embora abaixo de 2024 (207 mg/dL).
 
 ### 🔹 Glicemia
-- 80 mg/dL = **excelente, totalmente normal**.
+- O único valor registrado é 80 mg/dL, em julho de 2024: **dentro da faixa normal de jejum**.  
+- Não há resultado de glicemia informado para julho de 2026.
 
 ---
 
 ## ❤️ **Conclusão Simplificada**
 
-📈 **Tendência positiva:** o controle melhorou em relação a 2024.  
-⚠️ **Pontos de atenção:** HDL um pouco baixo e triglicérides levemente elevados.  
-💡 **Risco geral:** *baixo a moderado*, mas vale reforçar hábitos saudáveis — principalmente para proteger coração e fígado.
+⚠️ **Resultado mais recente (julho de 2026):** colesterol total (221), LDL (150), não-HDL (182) e triglicérides (188 mg/dL) estão acima dos valores de referência; o HDL (39 mg/dL) está abaixo do desejável.  
+💡 **Próximo passo:** leve estes resultados ao médico para avaliar o risco cardiovascular individual e definir as metas adequadas, incluindo a necessidade de acompanhamento ou tratamento.  
+✅ **Glicemia:** o valor disponível de 80 mg/dL, de 2024, estava normal; não há resultado de glicemia para julho de 2026.
 
 ---
 
