@@ -53,23 +53,23 @@ O resultado mais recente (221 mg/dL, em julho de 2026) está **acima do valor de
 
 ## 🥗 **Recomendações de Estilo de Vida e Alimentação**
 
-### ✅ Para melhorar HDL e reduzir triglicérides
+### ✅ Para reduzir LDL, não-HDL e triglicérides e apoiar o HDL
 
 1. **Atividade física**
-   - Caminhada rápida, natação ou bicicleta pelo menos **30–40 min, 5x por semana**.  
-   - Exercício regular é o que **mais aumenta o HDL**.
+   - Busque ao menos **150 minutos por semana** de atividade aeróbica moderada (por exemplo, caminhada rápida, bicicleta, natação ou dança), distribuídos ao longo da semana.  
+   - Comece de forma gradual e escolha atividades sustentáveis; se houver sintomas ou restrições médicas, alinhe o plano com um profissional de saúde.
 
 2. **Alimentação**
-   - **Aumente:** peixes ricos em ômega-3 (salmão, sardinha, atum), abacate, azeite de oliva, castanhas e sementes.  
-   - **Reduza:** açúcar, massas brancas, refrigerantes, álcool e frituras.  
-   - **Prefira:** grãos integrais, legumes, verduras e frutas com moderação.  
-   - Evite comer tarde da noite.
+   - **Priorize:** verduras, legumes, frutas, feijões e outras leguminosas, grãos integrais, castanhas e sementes, peixes, aves sem pele e óleos vegetais não tropicais, como azeite e canola.  
+   - **Reduza gorduras saturadas e evite gorduras trans:** limite carnes processadas, carnes gordurosas, frituras, manteiga, queijos e laticínios integrais; prefira preparações assadas, cozidas ou grelhadas.  
+   - **Para os triglicérides:** reduza açúcar adicionado, bebidas açucaradas, doces, farinha branca e porções excessivas de carboidratos refinados.
 
 3. **Álcool**
-   - Mesmo pequenas quantidades podem **aumentar triglicérides**, então reduza ao máximo.
+   - Limite ou evite álcool, pois ele pode elevar os triglicérides.
 
-4. **Peso corporal**
-   - Você mencionou **56 anos e 88 kg** — dependendo da altura, pode haver sobrepeso leve; perder **5–7 kg** já melhora muito o perfil lipídico.
+4. **Peso, tabaco e rotina**
+   - Se houver excesso de peso, uma redução gradual, definida com acompanhamento profissional, pode ajudar o perfil lipídico.  
+   - Não fume, priorize sono adequado e mantenha acompanhamento clínico para avaliar outros fatores que influenciam os lipídios.
 
 ---
 
