@@ -5,10 +5,12 @@ Perfeito — você trouxe ótimos dados e dá pra fazer uma **análise comparati
 
 ---
 
+
 ## 🧪 **Resumo da Evolução dos Exames**
 
 | Data       | Triglicérides | Colesterol Total    | HDL      | LDL       | Não-HDL   | Glicose  |
 | ----------- | ------------- | ------------------- | -------- | ---------- | ---------- | -------- |
+| 07/07/2026 | **188**       | **221**             | **39 ↓** | **150**   | **182**   | –        |
 | 09/10/2025 | **164**       | **169**             | **39 ↓** | **102**   | **130**   | –        |
 | 28/12/2024 | **105 ✅**     | **193 (limítrofe)** | **34 ↓** | **138 ↑** | **159 ↑** | –        |
 | 18/07/2024 | **207 ↑**     | **193 (limítrofe)** | **42 ✅** | **119**   | **151 ↑** | **80 ✅** |
@@ -149,4 +151,3 @@ Tudo mantendo **proteína boa**, **baixo custo** e **variedade real**.
 * Beba bastante água (1,5–2L/dia).
 
 ---
-
